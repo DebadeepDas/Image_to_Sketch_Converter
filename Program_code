@@ -49,7 +49,7 @@ def Main_Converter():
 
     cv2.imshow('Original Image', img)
     cv2.imshow('New Image', pencil_sketch_img)
-    cv2.waitKey(1)
+    cv2.waitKey(0)
     
     #Code for iterating Conversion Program for further conversion 
     
